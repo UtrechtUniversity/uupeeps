@@ -23,7 +23,7 @@ Get employees per faculty:
 uupeeps.get_employees_url(5)
 ```
 
-Get employee info (e.g. https://www.uu.nl/medewerkers/ALLamprecht/):
+Get employee info (e.g. https://www.uu.nl/staff/ALLamprecht/):
 
 ```
 >>> uupeeps.get_employee_info("ALLamprecht")
