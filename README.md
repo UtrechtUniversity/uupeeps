@@ -1,6 +1,6 @@
 # uupeeps
 
-This package is an interface to public UU employee information. This package was created by Class CoTaPP in live coding session on creating a Python package. 
+This package is an interface to the public staff information on https://www.uu.nl/staff/. This package was created by Class CoTaPP in a live coding session led by Jonathan de Bruin. The aim was to create and publish a Python package in 30 minutes. 
 
 ## Installation
 
@@ -34,4 +34,4 @@ Get employee info (e.g. https://www.uu.nl/medewerkers/ALLamprecht/):
 
 ## Contact
 
-This package was created by Class CoTaPP in live coding session on creating a Python package. Please contact Jonathan de Bruin for info j.debruin1@uu.nl. 
+This package was created by Class CoTaPP in a live coding session. Please contact Jonathan de Bruin for info j.debruin1@uu.nl. 
